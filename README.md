@@ -1,0 +1,3 @@
+# personal-analysis
+analysing the data of the expenses and creating an dash board using power bi
+THIS PROJECGT IS DONE WITH THE REFERANCES I CHJECKED FROM THE YOUTUBE AS THE DASHBOARD IS CREATED BY ME AND IF ANY DOUBTS ACCORDING TO THIS PROJECT FEEL FREE TO PING ME.
